@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Tasks/Tasks.csproj",
-      "projectName": "Tasks",
-      "projectPath": "/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Tasks/Tasks.csproj",
+      "projectUniqueName": "/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task2/Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task2/Task2.csproj",
       "packagesPath": "/Users/yanamakogon/.nuget/packages/",
-      "outputPath": "/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Tasks/obj/",
+      "outputPath": "/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yanamakogon/.nuget/NuGet/NuGet.Config"
