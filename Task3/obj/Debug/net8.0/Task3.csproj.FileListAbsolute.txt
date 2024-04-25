@@ -1,0 +1,15 @@
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/bin/Debug/net8.0/Task3
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/bin/Debug/net8.0/Task3.deps.json
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/bin/Debug/net8.0/Task3.dll
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/bin/Debug/net8.0/Task3.pdb
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.sourcelink.json
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.dll
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/refint/Task3.dll
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.pdb
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/Users/yanamakogon/Documents/net developer/c#/ClassesOOPTasks/ClassesOOPTasks/Task3/obj/Debug/net8.0/ref/Task3.dll
